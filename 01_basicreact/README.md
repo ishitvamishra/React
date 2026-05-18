@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `Steps involved in creting react project` ###
+
+## `Run npx create-react-app 01_basicreact` ##
+    This usually takes time to set up the dependecies and create folder 
+
+## `Open file and run, npm run start` ## 
+    This opens the browser and displays your project with simple default page 
+
+## `run, npm run build` ## 
+    This creates build folder which ggets served to user and has static assets
